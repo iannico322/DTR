@@ -6,8 +6,7 @@ import { Link, Outlet } from "react-router-dom";
 
 // import { ModeToggle } from "./components/mode-toggle";
 // import Reveal from "./components/animation/reveal";
-import { SearchIcon } from "lucide-react";
-import NavLink from "./components/link/link";
+
 
 function App() {
 
